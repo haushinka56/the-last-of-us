@@ -10,11 +10,17 @@
     width: 60%;
     text-align: center;
   }
+
+  .carousel-buttons .button {
+    width: 12px;
+    height: 12px;
+  }
 }
 
 @media (max-width: 425px) {
   .info .logo {
-    max-width: 200px;
+    margin-top: 30px;
+    max-width: 300px;
   }
 
   .info .text {
@@ -24,6 +30,11 @@
   .info .description {
     width: 100%;
     font-size: 13px;
+  }
+
+  .carousel-buttons .button {
+    width: 10px;
+    height: 10px;
   }
 
   .side-menu {
