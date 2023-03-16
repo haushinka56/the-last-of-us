@@ -124,10 +124,6 @@ main:after {
   transition: 0.3s ease-in-out;
 }
 
-.menu-lateral .icone:hover {
-  transform: scale(1.2);
-}
-
 @keyframes changePhoto {
   from {
     opacity: 0.7;
