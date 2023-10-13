@@ -3,7 +3,7 @@
 This landing page was developed during a ["Dev em Dobro"](https://devemdobro.com/matriculas-abertas/) event as a way to teach HTML, CSS, and JavaScript. It is a landing page for the TV series "The Last of Us" based on the video game franchise of the same name created by Neil Druckmann.
 
 ## Screenshots
-To go to the landing page, click [here](https://haushinka56.github.io/devemdobro-projeto-the-last-of-us/)
+To go to the landing page, click [here](https://haushinka56.github.io/the-last-of-us/)
 ![The Last of Us TV Series Landing Page](./src/img/screenshot.png)
 
 ## Technologies Used
